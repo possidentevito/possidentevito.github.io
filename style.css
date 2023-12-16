@@ -1,0 +1,51 @@
+header {
+	font-family: Symbol bold;
+	text-align: center;
+	border: 3px solid white;
+	background-repeat: no-repeat;
+	color: white;
+    background-color: red;
+    font-size: 25px;
+    margin: 0; 
+    overflow-x: hidden; 
+}
+	
+}
+
+table{
+	text-align: center;
+	width: 100%%;
+	table-layout: fixed;
+}
+
+tr, td, th{
+	padding: 25px;
+}
+
+
+img{
+	width: 100%;
+	height: auto%;
+	border: 3px solid white;
+}
+
+body{
+	background-image: linear-gradient(to top, gray, black);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 0;
+    overflow-x: hidden;
+}
+.track-list {
+            list-style: none;
+            padding: 0;
+            margin-top: 20px;}
+
+.track-list-item {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            margin: 5px;
+            border-radius: 5px;
+}
+
+
